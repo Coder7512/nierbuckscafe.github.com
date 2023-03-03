@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    background-image: url('../Pictures/antique-cafe-bg-01.jpg');
+    background-size: cover;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: overline;
+    text-decoration-color: black;
+    font-size: 80px;
+    line-height: 0cm;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 80px;
+    line-height: 0.1cm;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:burlywood;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.image-resize {
+    height: 45px;
+}
+div.logo {
+    height: 1cm;
+    text-align: center;
+}    
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-position-x: center;
+    text-align-last: center;
+    color: whitesmoke;
+    background-color: black;
+    background-color: transparent ;
+    margin-left: 450px;
+    margin-right: 400px;
+}
+p {
+    font-size: 50px;
+}

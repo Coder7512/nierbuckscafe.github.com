@@ -1,0 +1,18 @@
+body {
+    height:100vh;
+    background-image: url('../Pictures/inquiry-form.jpg');
+    background-size: cover;
+}
+form {
+   width: 300px;
+}
+input {
+    width: 300px;
+ }
+ textarea {
+    resize: vertical;
+    max-height: 200px;
+ }
+ h1 {
+    font-size: 20px;
+}
